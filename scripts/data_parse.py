@@ -1,5 +1,3 @@
-import pandas as pd
+import pandas
 
-data = pd.read_csv('./data_sets/train_categorical.csv')
-print(data.tail())
-print(data.describe())
+# TODO first, remove NaN from files and create optimized data sets
