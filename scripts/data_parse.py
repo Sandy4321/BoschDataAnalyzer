@@ -1,11 +1,4 @@
-___author___ = "Sajad Azami"
-'''
-Bosch Production Line Performance,
-Kaggle.com,
-BoschDataAnalyzer
-8/23/16,
-Sajad Azami
-'''
+"""BoschDataAnalyzer, 8/23/16, Sajad Azami"""
 
 import pandas
 
