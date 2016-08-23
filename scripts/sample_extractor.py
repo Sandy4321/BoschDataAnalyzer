@@ -1,3 +1,13 @@
+___author___ = "Sajad Azami"
+'''
+Bosch Production Line Performance,
+Kaggle.com,
+BoschDataAnalyzer
+8/23/16,
+Sajad Azami
+'''
+
+
 import pandas
 
 # Creating one chunk of 1000 row from each data set and write it to file to work on
